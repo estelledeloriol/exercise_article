@@ -1,0 +1,75 @@
+h1 {
+	color : #003554;
+	font-size: 40px;
+	font-family: "Playfair Display", serif;
+}
+h2 {
+	font-size: 25px;
+	font-family : "Encode Sans", sans-serif;
+	color : #006494;
+}
+img{
+	width : 600pxx;
+}
+body {
+	text-align : justify;
+	text-decoration: none;
+	background-color: #f2e9e4;
+}
+p {
+	line-height : 1.8;
+	font-size : 20px;
+	font-family : "Bricolage Grotesque", sans-serif;
+}
+#hotpink-card {
+	background-color: hotpink;
+	border-radius: 600px;
+	margin: 50px auto;
+	padding: 50px;
+}
+#lightpink-card {
+	background-color: #eac4d5;
+	border-radius: 400px;
+	margin: 50px auto;
+	padding: 15px;
+}
+.styleimage {
+	border-radius: 15px;
+	margin : auto;
+	text-align: center;
+	display: flex;
+}
+#border-card {
+	border-radius:10px ;
+	margin: 50px;
+	border: 5px solid indianred;
+}
+
+#logoEFJ {
+	width: 125px;
+	height:125px;
+	border-radius: 50%;
+	float: left;
+}
+#titre {
+	color: darkgoldenrod;
+	font-size: 125px;
+	font-family: "DM Serif Display", serif;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
